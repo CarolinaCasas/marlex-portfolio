@@ -1,0 +1,39 @@
+.test{
+    background-color: black;
+}
+
+.img-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    height:100vh;
+    background-image: url("../src/assets/_MG_6136.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+
+.title-container{
+background-color: rgba(0, 0, 0, 0.507);
+justify-content: center;
+padding: 4%;
+margin-top: 20%;
+}
+
+h1, h3, p, h4, h5, h6{
+color: white;
+}
+
+
+.custom-img {
+    width: 500px; /* Tamaño deseado para el ancho */
+    height: 400px; /* Tamaño deseado para la altura */
+    object-fit: cover;
+  }
+
+  .container-img{
+    width: 500px; /* Tamaño deseado para el ancho */
+    height: 400px; /* Tamaño deseado para la altura */
+
+  }
