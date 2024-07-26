@@ -1,5 +1,5 @@
 .test{
-    background-color: aqua;
+    background-color: black;
 }
 
 .img-main{
@@ -24,3 +24,16 @@ margin-top: 20%;
 h1, h3, p, h4, h5, h6{
 color: white;
 }
+
+
+.custom-img {
+    width: 500px; /* Tamaño deseado para el ancho */
+    height: 400px; /* Tamaño deseado para la altura */
+    object-fit: cover;
+  }
+
+  .container-img{
+    width: 500px; /* Tamaño deseado para el ancho */
+    height: 400px; /* Tamaño deseado para la altura */
+
+  }

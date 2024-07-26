@@ -1,0 +1,170 @@
+{
+    "portrait":[
+        {
+            "id":1,
+            "src":"./assets/photos/photo1.jpg",
+            "alt":"./assets/photos/photo1.jpg"
+            },
+            {
+                "id":2,
+                "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                "alt":"text"
+                },
+                {
+                    "id":3,
+                    "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                    "alt":"text"
+                    },
+                    {
+                        "id":4,
+                        "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                        "alt":"text"
+                        },
+                        {
+                            "id":5,
+                            "src":"https://scontent.fmex28-1.fna.fbcdn.net/v/t39.30808-6/300230083_10225905992412659_8925397443939094764_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH2xjHpD5caP0JXSVQtGLvfjuYfXCG-vtWO5h9cIb6-1Xz0IBqP-i5c2YXw-Q9H_2cT2AEkTBo6moRjNUq5ucdI&_nc_ohc=9rE8ttJEWC4Ab4gdK72&_nc_ht=scontent.fmex28-1.fna&cb_e2o_trans=q&oh=00_AfCvuuVGjNVfASQ8dIAiYLDA0cfhP_X3waKTACEJeE_b5w&oe=6613E0B3",
+                            "alt":"text"
+                            }
+    ],
+
+
+    "advertising":[
+        {
+            "id":1,
+            "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+            "alt":"img",
+            "session":[
+{ "id":1,
+"src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+"alt":"img"},
+{ "id":1,
+"src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+"alt":"img"},
+{ "id":1,
+"src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+"alt":"img"}
+            ]
+            },
+            {
+                "id":2,
+                "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                "alt":"text",
+                "session":[
+                    { "id":1,
+                    "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                    "alt":"img"},
+                    { "id":1,
+                    "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                    "alt":"img"},
+                    { "id":1,
+                    "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                    "alt":"img"}
+                                ]
+                },
+                {
+                    "id":3,
+                    "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                    "alt":"text",
+                    "session":[
+                        { "id":1,
+                        "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                        "alt":"img"},
+                        { "id":1,
+                        "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                        "alt":"img"},
+                        { "id":1,
+                        "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                        "alt":"img"}
+                                    ]
+                    },
+                    {
+                        "id":4,
+                        "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                        "alt":"text",
+                        "session":[
+                            { "id":1,
+                            "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                            "alt":"img"},
+                            { "id":1,
+                            "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                            "alt":"img"},
+                            { "id":1,
+                            "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                            "alt":"img"}
+                                        ]
+                        },
+                        {
+                            "id":5,
+                            "src":"https://scontent.fmex28-1.fna.fbcdn.net/v/t39.30808-6/300230083_10225905992412659_8925397443939094764_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH2xjHpD5caP0JXSVQtGLvfjuYfXCG-vtWO5h9cIb6-1Xz0IBqP-i5c2YXw-Q9H_2cT2AEkTBo6moRjNUq5ucdI&_nc_ohc=9rE8ttJEWC4Ab4gdK72&_nc_ht=scontent.fmex28-1.fna&cb_e2o_trans=q&oh=00_AfCvuuVGjNVfASQ8dIAiYLDA0cfhP_X3waKTACEJeE_b5w&oe=6613E0B3",
+                            "alt":"text",
+                            "session":[
+                                { "id":1,
+                                "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                                "alt":"img"},
+                                { "id":1,
+                                "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                                "alt":"img"},
+                                { "id":1,
+                                "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+                                "alt":"img"}
+                                            ]
+                            }
+    ],
+
+    "executive":[
+        {
+            "id":1,
+            "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+            "alt":"img"
+            },
+            {
+                "id":2,
+                "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                "alt":"text"
+                },
+                {
+                    "id":3,
+                    "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                    "alt":"text"
+                    },
+                    {
+                        "id":4,
+                        "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                        "alt":"text"
+                        },
+                        {
+                            "id":5,
+                            "src":"https://scontent.fmex28-1.fna.fbcdn.net/v/t39.30808-6/300230083_10225905992412659_8925397443939094764_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH2xjHpD5caP0JXSVQtGLvfjuYfXCG-vtWO5h9cIb6-1Xz0IBqP-i5c2YXw-Q9H_2cT2AEkTBo6moRjNUq5ucdI&_nc_ohc=9rE8ttJEWC4Ab4gdK72&_nc_ht=scontent.fmex28-1.fna&cb_e2o_trans=q&oh=00_AfCvuuVGjNVfASQ8dIAiYLDA0cfhP_X3waKTACEJeE_b5w&oe=6613E0B3",
+                            "alt":"text"
+                            }
+    ],
+
+    "editorial":[
+        {
+            "id":1,
+            "src":"https://assets-global.website-files.com/6321fa4eb9021afb4a237ebb/6356af310f5b551569d8f19c_inicio.jpg",
+            "alt":"img"
+            },
+            {
+                "id":2,
+                "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                "alt":"text"
+                },
+                {
+                    "id":3,
+                    "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                    "alt":"text"
+                    },
+                    {
+                        "id":4,
+                        "src":"https://mott.pe/noticias/wp-content/uploads/2018/04/5-fot%C3%B3grafos-reconocidos-nos-dicen-c%C3%B3mo-hacer-buenos-retratos-portada.jpg",
+                        "alt":"text"
+                        },
+                        {
+                            "id":5,
+                            "src":"https://scontent.fmex28-1.fna.fbcdn.net/v/t39.30808-6/300230083_10225905992412659_8925397443939094764_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH2xjHpD5caP0JXSVQtGLvfjuYfXCG-vtWO5h9cIb6-1Xz0IBqP-i5c2YXw-Q9H_2cT2AEkTBo6moRjNUq5ucdI&_nc_ohc=9rE8ttJEWC4Ab4gdK72&_nc_ht=scontent.fmex28-1.fna&cb_e2o_trans=q&oh=00_AfCvuuVGjNVfASQ8dIAiYLDA0cfhP_X3waKTACEJeE_b5w&oe=6613E0B3",
+                            "alt":"text"
+                            }
+    ]
+}
+

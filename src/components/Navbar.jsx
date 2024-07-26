@@ -4,32 +4,35 @@ function Navbar(props) {
   return (
     <>
 
-<nav class="navbar navbar-expand-lg bg-body-tertiary z-1">
-  <div class="container-fluid">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+<nav className="navbar navbar-expand-lg bg-dark container-fluid " style={{position:"fixed", right: "0",}}>
+  <div className="container-fluid ">
+    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span className="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">YO SOY</a>
+    <div className="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul className="navbar-nav me-auto mb-2 mb-lg-0 d-flex flex-grow-1">
+        <li className="nav-item">
+          <a className="nav-link active text-white" aria-current="page" href="yo-soy">YO SOY</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">RETRATO</a>
+        <li className="nav-item">
+          <a className="nav-link active text-white" aria-current="page" href="retrato">RETRATO</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">PUBLICITARIO</a>
+        <li className="nav-item">
+          <a className="nav-link active text-white" aria-current="page" href="publicitario">PUBLICITARIO</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">EJECUTIVO</a>
+        <li className="nav-item">
+          <a className="nav-link active text-white" aria-current="page" href="ejecutivo">EJECUTIVO</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">EDITORIAL</a>
+        <li className="nav-item">
+          <a className="nav-link active text-white" aria-current="page" href="editorial">EDITORIAL</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">CONTACTO</a>
+        <li className="nav-item">
+          <a className="nav-link active text-white" aria-current="page" href="contacto">CONTACTO</a>
         </li>
       </ul>
+    </div>
+    <div className="logo">
+       <p>MARLEX <br/> BRANDO</p>
     </div>
   </div>
 </nav>
