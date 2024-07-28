@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marlex-portfolio/static/css/main.eb31f8fa.css",
+    "main.js": "/marlex-portfolio/static/js/main.cc9432fa.js",
+    "static/js/592.77c909cc.chunk.js": "/marlex-portfolio/static/js/592.77c909cc.chunk.js",
+    "static/media/_MG_6136.jpg": "/marlex-portfolio/static/media/_MG_6136.970be380813cad0ad159.jpg",
+    "index.html": "/marlex-portfolio/index.html",
+    "main.eb31f8fa.css.map": "/marlex-portfolio/static/css/main.eb31f8fa.css.map",
+    "main.cc9432fa.js.map": "/marlex-portfolio/static/js/main.cc9432fa.js.map",
+    "592.77c909cc.chunk.js.map": "/marlex-portfolio/static/js/592.77c909cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb31f8fa.css",
+    "static/js/main.cc9432fa.js"
+  ]
+}
