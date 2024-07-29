@@ -1,13 +1,17 @@
 import React from "react";
 
-function Trajectory(props) {
+function Trajectory({profilePhoto}) {
+ 
+  const {src} = profilePhoto
+
+  console.log("estas son las props de perfil", src)
   return (
     <>
-<div className="row">
-<div className="col">
-<img src="" alt="Marlex Brando" />
+<div className="row position-relative w-100 h-100">
+<div className="col-6 ">
+<img className="position-relative p-0 m-0 w-100 h-100"  style={{ objectFit: 'cover' }} src={src} alt="profile" />
 </div>
-<div className="col">
+<div className="col-6">
 <h3 className="subtitle">
   Yo soy
 </h3>
