@@ -40,5 +40,8 @@ color: white;
 
   }
 
-
+  /*Estilos para reutilizar en cada componente*/
+  .black-transparent {
+    background-color: rgba(0, 0, 0, 0.5); /* El último valor es la opacidad (0.5 en este caso) */
+}
 
